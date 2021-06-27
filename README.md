@@ -1,2 +1,2 @@
 # snake
-a simple computer circuit
+一个简单的8位计算机电路图，采用哈佛架构，基于MIPS32设计指令集
